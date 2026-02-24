@@ -220,10 +220,10 @@ await session.SendAsync("Be concise.", overrides: new RequestOverrides
 | Anthropic | ✓ | ✓ | ✓ | |
 | DeepSeek | ✓ | ✓ | ✓ | |
 | Grok | ✓ | ✓ | ✓ | |
-| Groq | ✓ | ✓ | | |
+| Groq | ✓ | ✓ | ✓| |
 | Duck | ✓ | ✓ | | |
-| LM Studio | ✓ | ✓ | | ✓ |
-| LlamaSharp | ✓ | ✓ | | ✓ |
+| LM Studio | ✓ | ✓ | ✓ | ✓ |
+| LlamaSharp | ✓ | ✓ | ✓ | ✓ |
 
 All providers support cancellation and timeout override.
 
